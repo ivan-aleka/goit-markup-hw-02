@@ -63,9 +63,6 @@ color: #404bbf;
 .order-service-button:hover, .order-service-button:focus{
 background: #404bbf;
 }
-.skills-main-title {
-display: none;
-}
 .skills-title {
     font-weight: 500;
         font-size: 20px;
